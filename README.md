@@ -31,7 +31,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Nabeelas/FileRenameBot
 
-Jump to ↵https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+Jump to ↵)https://github.com/No-OnE-Kn0wS-Me/FileRenameBot
 
 # Required Strings :-
 
